@@ -15,5 +15,10 @@
 <br> ⚡ Recently my projects are kid-related, while I am studying I find something nice to do for them.
 <br> For more info, you can visit my [porftolio](https://emys-alb.github.io/)
 
-![Emys's Stats](https://github-readme-stats.vercel.app/api?username=emys-alb&show_icons=true&theme=radical)
+<a href="https://github.com/MuxinFeng">
+  <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=MuxinFeng&show_icons=true" />
+</a>
+<a href="https://github.com/MuxinFeng?tab=repositories">
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuxinFeng&layout=compact" />
+</a>
 
