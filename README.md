@@ -16,12 +16,13 @@
 <br> For more info, you can visit my [porftolio](https://emys-alb.github.io/)
 <br>
 #### TODO 📝
-- [ ] 
+
 - [ ] participate  
 - [ ] redeem  
 - [ ] refund  
 <br>
-#### Statistics 📈
+#### Statistics ✨
+
 <a href="https://github.com/MuxinFeng">
   <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=MuxinFeng&show_icons=true" />
 </a>
