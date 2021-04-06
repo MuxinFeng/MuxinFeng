@@ -24,7 +24,7 @@
 
 <br>
 
-### Statistics 📝
+### Statistics 🏆
 
 <a href="https://github.com/MuxinFeng">
   <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=MuxinFeng&show_icons=true" />
