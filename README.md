@@ -15,6 +15,13 @@
 <br> ⚡ Recently my projects are kid-related, while I am studying I find something nice to do for them.
 <br> For more info, you can visit my [porftolio](https://emys-alb.github.io/)
 <br>
+
+### TODO 📝
+
+- [ ] participate  
+- [ ] redeem  
+- [ ] refund  
+<br>
 ### Statistics 📝
 
 <a href="https://github.com/MuxinFeng">
@@ -24,10 +31,4 @@
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuxinFeng&layout=compact" />
 </a>
 <br>
-### TODO 📝
-
-- [ ] participate  
-- [ ] redeem  
-- [ ] refund  
-
 
