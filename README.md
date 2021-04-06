@@ -30,7 +30,7 @@
   <img width="394" src="https://github-readme-stats-rho.vercel.app/api?username=MuxinFeng&theme=graywhite&show_icons=true" />
 </a>
 <a href="https://github.com/MuxinFeng?tab=repositories">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuxinFeng&theme=graywhite&layout=compact" />
+  <img width="394" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuxinFeng&theme=graywhite&layout=compact" />
 </a>
 <br>
 
