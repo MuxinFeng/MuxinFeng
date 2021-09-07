@@ -1,8 +1,8 @@
 ### Hi👋
 
-🔭 优雅的代码，高效的沟通，持续的进步
+🔭 　keep learning
 - - -
-### 2021TODO 📝
+### TODO-2021 📝
 
 - [ ] TypeScript
 - [ ] React Hooks
