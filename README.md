@@ -2,12 +2,11 @@
 
 🔭 　keep learning
 - - -
-### TODO-2021 📝
+### TODO-2022 📝
 
-- [ ] TypeScript
-- [ ] React Hooks
-- [ ] NodeJS  
-- [ ] 用TS+React Hooks重构彗星密码本
+- [ ] 性能优化
+- [ ] React 生态
+- [ ] 设计模式  
 <!-- - [ ] Go -->
 
 - - -
