@@ -7,7 +7,7 @@
 - [x] 性能优化，积累一些博客
 - [ ] 全面了解下 `React` 生态
 - [ ] 设计模式  
-- [ ] 成为一个开源项目的主力贡献者之一，提 10 个 `PR`
+- [ ] 成为一个开源项目的主力贡献者之一，提 10 个 `PR`（[我的进度](https://github.com/MuxinFeng/contributions-for-open-source)）
 <!-- - [ ] Go -->
 
 - - -
