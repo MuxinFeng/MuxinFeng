@@ -1,4 +1,4 @@
-### Hi👋
+### Hi 👋
 
 🔭 　keep learning
 - - -
@@ -20,6 +20,9 @@
 </a>
 <br>
 
-
+### Contributions 👐
+<a href="https://github.com/MuxinFeng">
+  <img style="height:150px" src="https://raw.githubusercontent.com/MuxinFeng/MuxinFeng/output/github-contribution-grid-snake.svg" />
+</a>
 
 
