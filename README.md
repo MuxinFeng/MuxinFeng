@@ -27,5 +27,5 @@
 ### Contributions 👐
 
 <a href="https://raw.githubusercontent.com/MuxinFeng/MuxinFeng/main/assets/github-contribution-grid-snake.svg">
-  <img style="height:150px" src="https://raw.githubusercontent.com/MuxinFeng/MuxinFeng/main/assets/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MuxinFeng/MuxinFeng/main/assets/github-contribution-grid-snake.svg" />
 </a>
