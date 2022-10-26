@@ -2,6 +2,8 @@
 
 🔭 　 keep learning
 
+![](https://komarev.com/ghpvc/?username=MuxinFeng)
+
 ---
 
 ### TODO-2022 📝
@@ -30,4 +32,3 @@
   <img src="https://raw.githubusercontent.com/MuxinFeng/MuxinFeng/main/assets/github-contribution-grid-snake.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=MuxinFeng)
