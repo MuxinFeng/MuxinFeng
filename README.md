@@ -26,9 +26,9 @@
 </a>
 <br>
 
-### Contributions 👐
+<!-- ### Contributions 👐
 
 <a href="https://raw.githubusercontent.com/MuxinFeng/MuxinFeng/main/assets/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/MuxinFeng/MuxinFeng/main/assets/github-contribution-grid-snake.svg" />
-</a>
+</a> -->
 
