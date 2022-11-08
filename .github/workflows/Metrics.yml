@@ -30,4 +30,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_followup: yes
+          plugin_followup_archived: yes
           plugin_followup_indepth: yes
+          plugin_followup_sections: user
