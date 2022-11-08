@@ -27,7 +27,7 @@ jobs:
           # Options
           user: MuxinFeng
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_archived: yes
